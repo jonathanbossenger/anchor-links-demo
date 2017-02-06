@@ -1,2 +1,2 @@
-# anchor-links-demo
-Divi anchor links demo - opening from another page
+# Anchor Links Demo
+Divi anchor links demo - opening tabs and accordions from another page
